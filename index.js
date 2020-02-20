@@ -1,4 +1,4 @@
 main.remove();
 let newHeader = document.createElement('h1');
 newHeader.id = 'victory';
-newHeader.innerText = "Dominique is the champion";
+newHeader.innerHTML = "Dominique is the champion";
